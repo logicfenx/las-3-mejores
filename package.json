@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/las-3-mejores",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a las-3-mejores",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/las-3-mejores.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/3-mejores-apps-stickers/"
+    },
+    "homepage": "https://isproto.com/3-mejores-apps-stickers/"
+}
